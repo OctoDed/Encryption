@@ -1,0 +1,13 @@
+E:\учебная херобрань\програмки\Encryption\Encryption\bin\Debug\netcoreapp3.1\Encryption.exe
+E:\учебная херобрань\програмки\Encryption\Encryption\bin\Debug\netcoreapp3.1\Encryption.deps.json
+E:\учебная херобрань\програмки\Encryption\Encryption\bin\Debug\netcoreapp3.1\Encryption.runtimeconfig.json
+E:\учебная херобрань\програмки\Encryption\Encryption\bin\Debug\netcoreapp3.1\Encryption.runtimeconfig.dev.json
+E:\учебная херобрань\програмки\Encryption\Encryption\bin\Debug\netcoreapp3.1\Encryption.dll
+E:\учебная херобрань\програмки\Encryption\Encryption\bin\Debug\netcoreapp3.1\Encryption.pdb
+E:\учебная херобрань\програмки\Encryption\Encryption\obj\Debug\netcoreapp3.1\Encryption.csprojAssemblyReference.cache
+E:\учебная херобрань\програмки\Encryption\Encryption\obj\Debug\netcoreapp3.1\Encryption.AssemblyInfoInputs.cache
+E:\учебная херобрань\програмки\Encryption\Encryption\obj\Debug\netcoreapp3.1\Encryption.AssemblyInfo.cs
+E:\учебная херобрань\програмки\Encryption\Encryption\obj\Debug\netcoreapp3.1\Encryption.csproj.CoreCompileInputs.cache
+E:\учебная херобрань\програмки\Encryption\Encryption\obj\Debug\netcoreapp3.1\Encryption.dll
+E:\учебная херобрань\програмки\Encryption\Encryption\obj\Debug\netcoreapp3.1\Encryption.pdb
+E:\учебная херобрань\програмки\Encryption\Encryption\obj\Debug\netcoreapp3.1\Encryption.genruntimeconfig.cache
